@@ -11,13 +11,12 @@
   "author": "Kent C. Dodds <kent@doddsfamily.us> (http://kentcdodds.com/)",
   "license": "MIT",
   "devDependencies": {
-    "@babel/cli": "^7.0.0-beta.51",
-    "@babel/core": "^7.0.0-beta.51",
-    "@babel/plugin-transform-arrow-functions": "^7.0.0-beta.51",
-    "babel-core": "^7.0.0-bridge.0",
-    "babel-loader": "^7.1.4",
-    "webpack": "^4.12.0",
-    "webpack-cli": "^3.0.6"
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.8.7",
+    "@babel/plugin-transform-arrow-functions": "^7.8.3",
+    "babel-loader": "^8.0.6",
+    "webpack": "^4.42.0",
+    "webpack-cli": "^3.3.11"
   },
   "off-babel": {
     "plugins": [
